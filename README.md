@@ -7,6 +7,8 @@ A smart contract that accepts two user addresses, which will be able to control 
 ## Technologies
 * [Solidity](https://soliditylang.org/) - Solidity is a statically-typed curly-braces programming language designed for developing smart contracts that run on Ethereum
 
+* [Remix](https://remix.ethereum.org) - Remix IDE is an open source web and desktop application.
+
 ## Validations
 
 ### Set Accounts
